@@ -1,6 +1,6 @@
 # Star_Classification
 
-## this project is about the classification of celestial bodies, using public data provided by The Sloan Digital Sky Survey.
+## This project is about the classification of celestial bodies, using public data provided by The Sloan Digital Sky Survey.
 
 ### Work done includes:
 * Data Cleaning
