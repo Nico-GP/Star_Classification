@@ -8,7 +8,7 @@
 * Data Statistics
 * Data Predictions
 
-In addition, a recorded presentation that summarizes the development of the project is included in this repository.
+In addition, a presentation that summarizes the development of the project is included in this repository.
 
 [Data Source](https://www.kaggle.com/fedesoriano/stellar-classification-dataset-sdss17) - 
 [About Licensing](https://www.sdss.org/science/image-gallery/)
